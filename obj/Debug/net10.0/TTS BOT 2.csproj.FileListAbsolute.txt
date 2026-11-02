@@ -1,0 +1,42 @@
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\bin\Debug\net10.0\appsettings.Development.json
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\bin\Debug\net10.0\appsettings.json
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\bin\Debug\net10.0\TTS BOT 2.staticwebassets.endpoints.json
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\bin\Debug\net10.0\TTS BOT 2.exe
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\bin\Debug\net10.0\TTS BOT 2.deps.json
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\bin\Debug\net10.0\TTS BOT 2.runtimeconfig.json
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\bin\Debug\net10.0\TTS BOT 2.dll
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\bin\Debug\net10.0\TTS BOT 2.pdb
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\bin\Debug\net10.0\Microsoft.OpenApi.dll
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\bin\Debug\net10.0\NAudio.dll
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\bin\Debug\net10.0\NAudio.Core.dll
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\bin\Debug\net10.0\NAudio.Midi.dll
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\bin\Debug\net10.0\NAudio.Wasapi.dll
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\bin\Debug\net10.0\NAudio.WinMM.dll
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\bin\Debug\net10.0\System.Numerics.Tensors.dll
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\obj\Debug\net10.0\TTS BOT 2.csproj.AssemblyReference.cache
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\obj\Debug\net10.0\TTS BOT 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\obj\Debug\net10.0\TTS BOT 2.AssemblyInfoInputs.cache
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\obj\Debug\net10.0\TTS BOT 2.AssemblyInfo.cs
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\obj\Debug\net10.0\TTS BOT 2.csproj.CoreCompileInputs.cache
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\obj\Debug\net10.0\TTS BOT 2.MvcApplicationPartsAssemblyInfo.cs
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\obj\Debug\net10.0\TTS BOT 2.MvcApplicationPartsAssemblyInfo.cache
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\obj\Debug\net10.0\scopedcss\bundle\TTS BOT 2.styles.css
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\obj\Debug\net10.0\staticwebassets.build.json
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\obj\Debug\net10.0\staticwebassets.development.json
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\obj\Debug\net10.0\swae.build.ex.cache
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\obj\Debug\net10.0\TTS BOT 2.csproj.Up2Date
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\obj\Debug\net10.0\TTS BOT 2.dll
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\obj\Debug\net10.0\refint\TTS BOT 2.dll
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\obj\Debug\net10.0\TTS BOT 2.pdb
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\obj\Debug\net10.0\TTS BOT 2.genruntimeconfig.cache
+E:\Users\victo\source\repos\TTS BOT 2\TTS BOT 2\obj\Debug\net10.0\ref\TTS BOT 2.dll

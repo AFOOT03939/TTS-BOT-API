@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "TTS_BOT_2.Controllers.TTSController",
+    "Method": "getSyllables",
+    "RelativePath": "api/TTS",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "text",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

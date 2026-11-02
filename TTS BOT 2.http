@@ -1,0 +1,6 @@
+@TTS_BOT_2_HostAddress = http://localhost:5035
+
+GET {{TTS_BOT_2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

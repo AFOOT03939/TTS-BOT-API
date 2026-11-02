@@ -1,0 +1,43 @@
+{
+  "openapi": "3.1.1",
+  "info": {
+    "title": "TTS BOT 2 | v1",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://localhost:7179"
+    },
+    {
+      "url": "http://localhost:5035"
+    }
+  ],
+  "paths": {
+    "/api/TTS": {
+      "get": {
+        "tags": [
+          "TTS"
+        ],
+        "parameters": [
+          {
+            "name": "text",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "TTS"
+    }
+  ]
+}

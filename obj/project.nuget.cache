@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "F9kRhyc7RJw=",
+  "success": true,
+  "projectFilePath": "E:\\Users\\victo\\source\\repos\\TTS BOT 2\\TTS BOT 2\\TTS BOT 2.csproj",
+  "expectedPackageFiles": [
+    "E:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "E:\\Users\\victo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\11.0.0-rc.3.26522.148\\microsoft.extensions.dependencyinjection.11.0.0-rc.3.26522.148.nupkg.sha512",
+    "E:\\Users\\victo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\11.0.0-rc.3.26522.148\\microsoft.extensions.dependencyinjection.abstractions.11.0.0-rc.3.26522.148.nupkg.sha512",
+    "E:\\Users\\victo\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "E:\\Users\\victo\\.nuget\\packages\\naudio\\3.4.0-preview.1\\naudio.3.4.0-preview.1.nupkg.sha512",
+    "E:\\Users\\victo\\.nuget\\packages\\naudio.core\\3.4.0-preview.1\\naudio.core.3.4.0-preview.1.nupkg.sha512",
+    "E:\\Users\\victo\\.nuget\\packages\\naudio.midi\\3.4.0-preview.1\\naudio.midi.3.4.0-preview.1.nupkg.sha512",
+    "E:\\Users\\victo\\.nuget\\packages\\naudio.wasapi\\3.4.0-preview.1\\naudio.wasapi.3.4.0-preview.1.nupkg.sha512",
+    "E:\\Users\\victo\\.nuget\\packages\\naudio.winmm\\3.4.0-preview.1\\naudio.winmm.3.4.0-preview.1.nupkg.sha512",
+    "E:\\Users\\victo\\.nuget\\packages\\system.numerics.tensors\\9.0.0\\system.numerics.tensors.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
