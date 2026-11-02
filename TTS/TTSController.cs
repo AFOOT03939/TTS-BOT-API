@@ -25,9 +25,11 @@ namespace TTS_BOT_2.Controllers
 
             List<string> syllables = _syllabificationService.textReciever(text);
 
+            string audioDirectory = Path.Combine(AppContext.BaseDirectory, "Audios");
+
             foreach (var syllable in syllables)
             {
-                paths.Add(Path.Combine("E:\\Users\\victo\\source\\repos\\TTS BOT 2\\TTS BOT 2\\Audios\\" + syllable + ".wav"));
+                paths.Add(Path.Combine(audioDirectory, syllable + ".wav"));
             }
 
             var audioWav = _mixAudios.mixAudio(paths);
